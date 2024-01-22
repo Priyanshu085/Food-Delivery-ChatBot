@@ -1,4 +1,4 @@
-# Food Delivery Chatbot Project
+# Foodbot Project
 
 ## Overview
 
